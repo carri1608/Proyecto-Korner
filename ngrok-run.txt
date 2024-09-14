@@ -1,0 +1,6 @@
+
+token para publicar ngrok: 2lNLLsPnmSnIfMbAQu98bFQrTil_3MqjCiDG5mJBWWupdQmaf
+
+.\ngrok config add-authtoken 2lNLLsPnmSnIfMbAQu98bFQrTil_3MqjCiDG5mJBWWupdQmaf
+
+.\ngrok http http://localhost:8080
